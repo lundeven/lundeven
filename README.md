@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Even (@lundeven)
-- 👀 I’m interested in golf, F1, finance, and coding
-- 🌱 I’m currently doing the Full Stack course at Codecademy
-- 💞️ I’m looking to collaborate on projects related to the above course
 - 📫 How to reach me evenlund@me.com
 
 <!---
